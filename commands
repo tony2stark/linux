@@ -1,0 +1,2 @@
+To change the hostname of the system 
+------ sudo vi /etc/hostname -------
